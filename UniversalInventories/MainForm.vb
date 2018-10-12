@@ -1,5 +1,5 @@
 ﻿Imports MetroFramework
-Public Class Form1
+Public Class MainForm
     Dim dashboardAdminPanel As DashboardAdmin = New DashboardAdmin
     Dim loginPanel As LoginPanel = New LoginPanel
     Dim dashboardPanel As DashboardAdmin = New DashboardAdmin
