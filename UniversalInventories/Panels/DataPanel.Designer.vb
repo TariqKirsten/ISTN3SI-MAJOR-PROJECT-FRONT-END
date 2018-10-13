@@ -25,12 +25,12 @@ Partial Class DataPanel
         Me.components = New System.ComponentModel.Container()
         Me.searchButton = New MetroFramework.Controls.MetroButton()
         Me.MetroStyleExtender1 = New MetroFramework.Components.MetroStyleExtender(Me.components)
-        Me.filterOptionsComboBox = New MetroFramework.Controls.MetroComboBox()
-        Me.LabelFilter = New MetroFramework.Controls.MetroLabel()
+        Me.tablesOptionsComboBox = New MetroFramework.Controls.MetroComboBox()
+        Me.LabelTable = New MetroFramework.Controls.MetroLabel()
         Me.searchBox = New MetroFramework.Controls.MetroTextBox()
         Me.viewAllRows = New MetroFramework.Controls.MetroButton()
         Me.updateButton = New MetroFramework.Controls.MetroButton()
-        Me.MetroButton3 = New MetroFramework.Controls.MetroButton()
+        Me.insertRecordBtn = New MetroFramework.Controls.MetroButton()
         Me.CustomerDataSet = New UniversalInventories.CustomerDataSet()
         Me.CustomerDataSetBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.ProductsBindingSource = New System.Windows.Forms.BindingSource(Me.components)
@@ -51,25 +51,25 @@ Partial Class DataPanel
         Me.searchButton.Text = "Search"
         Me.searchButton.UseSelectable = True
         '
-        'filterOptionsComboBox
+        'tablesOptionsComboBox
         '
-        Me.filterOptionsComboBox.FormattingEnabled = True
-        Me.filterOptionsComboBox.ItemHeight = 23
-        Me.filterOptionsComboBox.Location = New System.Drawing.Point(86, 14)
-        Me.filterOptionsComboBox.Name = "filterOptionsComboBox"
-        Me.filterOptionsComboBox.Size = New System.Drawing.Size(121, 29)
-        Me.filterOptionsComboBox.TabIndex = 3
-        Me.filterOptionsComboBox.UseSelectable = True
+        Me.tablesOptionsComboBox.FormattingEnabled = True
+        Me.tablesOptionsComboBox.ItemHeight = 23
+        Me.tablesOptionsComboBox.Location = New System.Drawing.Point(86, 14)
+        Me.tablesOptionsComboBox.Name = "tablesOptionsComboBox"
+        Me.tablesOptionsComboBox.Size = New System.Drawing.Size(121, 29)
+        Me.tablesOptionsComboBox.TabIndex = 3
+        Me.tablesOptionsComboBox.UseSelectable = True
         '
-        'LabelFilter
+        'LabelTable
         '
-        Me.LabelFilter.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.LabelFilter.AutoSize = True
-        Me.LabelFilter.Location = New System.Drawing.Point(23, 20)
-        Me.LabelFilter.Name = "LabelFilter"
-        Me.LabelFilter.Size = New System.Drawing.Size(38, 19)
-        Me.LabelFilter.TabIndex = 4
-        Me.LabelFilter.Text = "Filter"
+        Me.LabelTable.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.LabelTable.AutoSize = True
+        Me.LabelTable.Location = New System.Drawing.Point(23, 20)
+        Me.LabelTable.Name = "LabelTable"
+        Me.LabelTable.Size = New System.Drawing.Size(39, 19)
+        Me.LabelTable.TabIndex = 4
+        Me.LabelTable.Text = "Table"
         '
         'searchBox
         '
@@ -119,14 +119,14 @@ Partial Class DataPanel
         Me.updateButton.Text = "Update A Record"
         Me.updateButton.UseSelectable = True
         '
-        'MetroButton3
+        'insertRecordBtn
         '
-        Me.MetroButton3.Location = New System.Drawing.Point(714, 343)
-        Me.MetroButton3.Name = "MetroButton3"
-        Me.MetroButton3.Size = New System.Drawing.Size(105, 34)
-        Me.MetroButton3.TabIndex = 8
-        Me.MetroButton3.Text = "Insert A Record"
-        Me.MetroButton3.UseSelectable = True
+        Me.insertRecordBtn.Location = New System.Drawing.Point(714, 343)
+        Me.insertRecordBtn.Name = "insertRecordBtn"
+        Me.insertRecordBtn.Size = New System.Drawing.Size(105, 34)
+        Me.insertRecordBtn.TabIndex = 8
+        Me.insertRecordBtn.Text = "Insert A Record"
+        Me.insertRecordBtn.UseSelectable = True
         '
         'CustomerDataSet
         '
@@ -164,12 +164,12 @@ Partial Class DataPanel
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.Controls.Add(Me.dataGrid)
-        Me.Controls.Add(Me.MetroButton3)
+        Me.Controls.Add(Me.insertRecordBtn)
         Me.Controls.Add(Me.updateButton)
         Me.Controls.Add(Me.viewAllRows)
         Me.Controls.Add(Me.searchBox)
-        Me.Controls.Add(Me.LabelFilter)
-        Me.Controls.Add(Me.filterOptionsComboBox)
+        Me.Controls.Add(Me.LabelTable)
+        Me.Controls.Add(Me.tablesOptionsComboBox)
         Me.Controls.Add(Me.searchButton)
         Me.Name = "DataPanel"
         Me.Size = New System.Drawing.Size(962, 579)
@@ -183,15 +183,15 @@ Partial Class DataPanel
     End Sub
     Friend WithEvents searchButton As MetroFramework.Controls.MetroButton
     Friend WithEvents MetroStyleExtender1 As MetroFramework.Components.MetroStyleExtender
-    Friend WithEvents filterOptionsComboBox As MetroFramework.Controls.MetroComboBox
-    Friend WithEvents LabelFilter As MetroFramework.Controls.MetroLabel
+    Friend WithEvents tablesOptionsComboBox As MetroFramework.Controls.MetroComboBox
+    Friend WithEvents LabelTable As MetroFramework.Controls.MetroLabel
     Friend WithEvents searchBox As MetroFramework.Controls.MetroTextBox
     Friend WithEvents viewAllRows As MetroFramework.Controls.MetroButton
     Friend WithEvents updateButton As MetroFramework.Controls.MetroButton
-    Friend WithEvents MetroButton3 As MetroFramework.Controls.MetroButton
     Friend WithEvents ProductsBindingSource As BindingSource
     Friend WithEvents CustomerDataSet As CustomerDataSet
     Friend WithEvents CustomerDataSetBindingSource As BindingSource
     Friend WithEvents ProductsTableAdapter As CustomerDataSetTableAdapters.ProductsTableAdapter
     Friend WithEvents dataGrid As DataGridView
+    Public WithEvents insertRecordBtn As MetroFramework.Controls.MetroButton
 End Class

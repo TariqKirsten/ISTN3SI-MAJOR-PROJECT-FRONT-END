@@ -1,9 +1,12 @@
 ﻿Imports MetroFramework
 Public Class MainForm
+    Public Shared user As String = "lel"
     Dim dashboardAdminPanel As DashboardAdmin = New DashboardAdmin
     Dim loginPanel As LoginPanel = New LoginPanel
     Dim dashboardPanel As DashboardAdmin = New DashboardAdmin
-    Dim dataPanel As DataPanel = New DataPanel
+    Public Shared dataPanel As DataPanel = New DataPanel
+    Dim aboutPanel As AboutPanel = New AboutPanel
+
 
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -11,18 +14,15 @@ Public Class MainForm
         displayPanel.Controls.Add(loginPanel)
         dashboardButton.Enabled = True 'MAKE FALSE, ONLY TRUE FOR TESTING PURPOSES
 
-        undergroundLabel.FontSize = MetroFramework.MetroLabelSize.Small
-        undergroundLabel.FontWeight = MetroLabelWeight.Bold
-        invLable.FontSize = MetroFramework.MetroLabelSize.Small
-        invLable.FontWeight = MetroLabelWeight.Bold
+
 
         viewStockTile.TileTextFontSize = MetroTileTextSize.Tall
         viewStockTile.TileTextFontWeight = MetroTileTextWeight.Bold
         viewStockTile.TextAlign = ContentAlignment.MiddleCenter
 
-        userInfoTile.TileTextFontSize = MetroTileTextSize.Tall
-        userInfoTile.TileTextFontWeight = MetroTileTextWeight.Bold
-        userInfoTile.TextAlign = ContentAlignment.MiddleCenter
+        aboutTile.TileTextFontSize = MetroTileTextSize.Tall
+        aboutTile.TileTextFontWeight = MetroTileTextWeight.Bold
+        aboutTile.TextAlign = ContentAlignment.MiddleCenter
 
     End Sub
 
@@ -47,6 +47,22 @@ Public Class MainForm
         displayPanel.Controls.Add(dataPanel)
     End Sub
 
+
+    Private Sub aboutTile_MouseClick(sender As Object, e As MouseEventArgs) Handles aboutTile.MouseClick
+        displayPanel.Controls.Clear()
+        displayPanel.Controls.Add(aboutPanel)
+    End Sub
+
+
+
+
+
+
+
+
+
+
+
     Dim draggable As Boolean
     Dim mouseX As Integer
     Dim mouseY As Integer
@@ -67,5 +83,6 @@ Public Class MainForm
     Private Sub panelTop_MouseUp(sender As Object, e As MouseEventArgs) Handles controlPanel.MouseUp
         draggable = False
     End Sub
+
 
 End Class

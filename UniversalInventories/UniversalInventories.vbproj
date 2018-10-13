@@ -85,15 +85,27 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InsertRecordForm.Designer.vb">
+      <DependentUpon>InsertRecordForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertRecordForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\AboutPanel.Designer.vb">
+      <DependentUpon>AboutPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\AboutPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="CustomerDataSet.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CustomerDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="DataPanel.Designer.vb">
+    <Compile Include="Panels\DataPanel.Designer.vb">
       <DependentUpon>DataPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="DataPanel.vb">
+    <Compile Include="Panels\DataPanel.vb">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="ExitAlertForm.Designer.vb">
@@ -109,10 +121,28 @@
       <DependentUpon>MainForm.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LoginPanel.Designer.vb">
+    <Compile Include="Panels\productUpdatePanel.Designer.vb">
+      <DependentUpon>productUpdatePanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\productUpdatePanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\supplierUpdatePanel.Designer.vb">
+      <DependentUpon>supplierUpdatePanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\supplierUpdatePanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\userInsertPanel.Designer.vb">
+      <DependentUpon>userInsertPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\userInsertPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\LoginPanel.Designer.vb">
       <DependentUpon>LoginPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="LoginPanel.vb">
+    <Compile Include="Panels\LoginPanel.vb">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -136,9 +166,39 @@
     <Compile Include="DashboardAdmin.vb">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Include="Panels\productInsertPanel.Designer.vb">
+      <DependentUpon>productInsertPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\productInsertPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\supplierInsertPanel.Designer.vb">
+      <DependentUpon>supplierInsertPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\supplierInsertPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\userUpdatePanel.Designer.vb">
+      <DependentUpon>userUpdatePanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\userUpdatePanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UpdateRecordForm.Designer.vb">
+      <DependentUpon>UpdateRecordForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateRecordForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="DataPanel.resx">
+    <EmbeddedResource Include="InsertRecordForm.resx">
+      <DependentUpon>InsertRecordForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\AboutPanel.resx">
+      <DependentUpon>AboutPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\DataPanel.resx">
       <DependentUpon>DataPanel.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ExitAlertForm.resx">
@@ -147,7 +207,7 @@
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LoginPanel.resx">
+    <EmbeddedResource Include="Panels\LoginPanel.resx">
       <DependentUpon>LoginPanel.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -158,6 +218,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DashboardAdmin.resx">
       <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\productInsertPanel.resx">
+      <DependentUpon>productInsertPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\productUpdatePanel.resx">
+      <DependentUpon>productUpdatePanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\supplierInsertPanel.resx">
+      <DependentUpon>supplierInsertPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\supplierUpdatePanel.resx">
+      <DependentUpon>supplierUpdatePanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\userInsertPanel.resx">
+      <DependentUpon>userInsertPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\userUpdatePanel.resx">
+      <DependentUpon>userUpdatePanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateRecordForm.resx">
+      <DependentUpon>UpdateRecordForm.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -186,6 +267,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <None Include="Resources\resized ui.png" />
+    <None Include="Resources\resized ui image.png" />
+    <None Include="Resources\UI logo resize.png" />
+    <None Include="Resources\Universal Inventories Logo.PNG" />
+    <None Include="Resources\OBlock Icon.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
