@@ -49,6 +49,11 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
     <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
       <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
     </Reference>
@@ -64,7 +69,10 @@
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -85,34 +93,19 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InsertRecordForm.Designer.vb">
-      <DependentUpon>InsertRecordForm.vb</DependentUpon>
+    <Compile Include="DSSystem.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSSystem.xsd</DependentUpon>
     </Compile>
-    <Compile Include="InsertRecordForm.vb">
-      <SubType>Form</SubType>
+    <Compile Include="DSSystem.vb">
+      <DependentUpon>DSSystem.xsd</DependentUpon>
     </Compile>
     <Compile Include="Panels\AboutPanel.Designer.vb">
       <DependentUpon>AboutPanel.vb</DependentUpon>
     </Compile>
     <Compile Include="Panels\AboutPanel.vb">
       <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="CustomerDataSet.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CustomerDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="Panels\DataPanel.Designer.vb">
-      <DependentUpon>DataPanel.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Panels\DataPanel.vb">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="ExitAlertForm.Designer.vb">
-      <DependentUpon>ExitAlertForm.vb</DependentUpon>
-    </Compile>
-    <Compile Include="ExitAlertForm.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForm.vb">
       <SubType>Form</SubType>
@@ -121,22 +114,82 @@
       <DependentUpon>MainForm.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Panels\productUpdatePanel.Designer.vb">
-      <DependentUpon>productUpdatePanel.vb</DependentUpon>
+    <Compile Include="Panels\customerPanel.Designer.vb">
+      <DependentUpon>customerPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="Panels\productUpdatePanel.vb">
+    <Compile Include="Panels\customerPanel.vb">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Panels\supplierUpdatePanel.Designer.vb">
-      <DependentUpon>supplierUpdatePanel.vb</DependentUpon>
+    <Compile Include="Panels\employeesPanel.Designer.vb">
+      <DependentUpon>employeesPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="Panels\supplierUpdatePanel.vb">
+    <Compile Include="Panels\employeesPanel.vb">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Panels\userInsertPanel.Designer.vb">
-      <DependentUpon>userInsertPanel.vb</DependentUpon>
+    <Compile Include="Panels\graphPanel.Designer.vb">
+      <DependentUpon>graphPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="Panels\userInsertPanel.vb">
+    <Compile Include="Panels\graphPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\insertCustomerPanel.Designer.vb">
+      <DependentUpon>insertCustomerPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\insertCustomerPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\insertEmployeePanel.Designer.vb">
+      <DependentUpon>insertEmployeePanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\insertEmployeePanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\insertProductPanel.Designer.vb">
+      <DependentUpon>insertProductPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\insertProductPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\insertSupplier.Designer.vb">
+      <DependentUpon>insertSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\insertSupplier.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\lowStockPanel.Designer.vb">
+      <DependentUpon>lowStockPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\lowStockPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\productsPanel.Designer.vb">
+      <DependentUpon>productsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\productsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\ReceiptPanel.Designer.vb">
+      <DependentUpon>ReceiptPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ReceiptPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\reportsPanel.Designer.vb">
+      <DependentUpon>reportsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\reportsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\saleView.Designer.vb">
+      <DependentUpon>saleView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\saleView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\salePanel.Designer.vb">
+      <DependentUpon>salePanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\salePanel.vb">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="Panels\LoginPanel.Designer.vb">
@@ -160,52 +213,70 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="DashboardAdmin.Designer.vb">
-      <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    <Compile Include="Panels\supplierPanel.Designer.vb">
+      <DependentUpon>supplierPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="DashboardAdmin.vb">
+    <Compile Include="Panels\supplierPanel.vb">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Panels\productInsertPanel.Designer.vb">
-      <DependentUpon>productInsertPanel.vb</DependentUpon>
+    <Compile Include="Panels\supplierReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>supplierReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Panels\productInsertPanel.vb">
-      <SubType>UserControl</SubType>
+    <Compile Include="Panels\supplierReportForm.Designer.vb">
+      <DependentUpon>supplierReportForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Panels\supplierInsertPanel.Designer.vb">
-      <DependentUpon>supplierInsertPanel.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Panels\supplierInsertPanel.vb">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Panels\userUpdatePanel.Designer.vb">
-      <DependentUpon>userUpdatePanel.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Panels\userUpdatePanel.vb">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UpdateRecordForm.Designer.vb">
-      <DependentUpon>UpdateRecordForm.vb</DependentUpon>
-    </Compile>
-    <Compile Include="UpdateRecordForm.vb">
+    <Compile Include="Panels\supplierReportForm.vb">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\taskManagementPanel.Designer.vb">
+      <DependentUpon>taskManagementPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\taskManagementPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\viewOrdersPanel.Designer.vb">
+      <DependentUpon>viewOrdersPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\viewOrdersPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\viewReportsStatistics.Designer.vb">
+      <DependentUpon>viewReportsStatistics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\viewReportsStatistics.vb">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="InsertRecordForm.resx">
-      <DependentUpon>InsertRecordForm.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Panels\AboutPanel.resx">
       <DependentUpon>AboutPanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\DataPanel.resx">
-      <DependentUpon>DataPanel.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ExitAlertForm.resx">
-      <DependentUpon>ExitAlertForm.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\customerPanel.resx">
+      <DependentUpon>customerPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\employeesPanel.resx">
+      <DependentUpon>employeesPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\graphPanel.resx">
+      <DependentUpon>graphPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\insertCustomerPanel.resx">
+      <DependentUpon>insertCustomerPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\insertEmployeePanel.resx">
+      <DependentUpon>insertEmployeePanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\insertProductPanel.resx">
+      <DependentUpon>insertProductPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\insertSupplier.resx">
+      <DependentUpon>insertSupplier.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Panels\LoginPanel.resx">
       <DependentUpon>LoginPanel.vb</DependentUpon>
@@ -216,42 +287,55 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="DashboardAdmin.resx">
-      <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\lowStockPanel.resx">
+      <DependentUpon>lowStockPanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\productInsertPanel.resx">
-      <DependentUpon>productInsertPanel.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\productsPanel.resx">
+      <DependentUpon>productsPanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\productUpdatePanel.resx">
-      <DependentUpon>productUpdatePanel.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\ReceiptPanel.resx">
+      <DependentUpon>ReceiptPanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\supplierInsertPanel.resx">
-      <DependentUpon>supplierInsertPanel.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\reportsPanel.resx">
+      <DependentUpon>reportsPanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\supplierUpdatePanel.resx">
-      <DependentUpon>supplierUpdatePanel.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\saleView.resx">
+      <DependentUpon>saleView.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\userInsertPanel.resx">
-      <DependentUpon>userInsertPanel.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\salePanel.resx">
+      <DependentUpon>salePanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Panels\userUpdatePanel.resx">
-      <DependentUpon>userUpdatePanel.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\supplierPanel.resx">
+      <DependentUpon>supplierPanel.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UpdateRecordForm.resx">
-      <DependentUpon>UpdateRecordForm.vb</DependentUpon>
+    <EmbeddedResource Include="Panels\supplierReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>supplierReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\supplierReportForm.resx">
+      <DependentUpon>supplierReportForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\taskManagementPanel.resx">
+      <DependentUpon>taskManagementPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\viewOrdersPanel.resx">
+      <DependentUpon>viewOrdersPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\viewReportsStatistics.resx">
+      <DependentUpon>viewReportsStatistics.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="CustomerDataSet.xsc">
-      <DependentUpon>CustomerDataSet.xsd</DependentUpon>
+    <None Include="DSSystem.xsc">
+      <DependentUpon>DSSystem.xsd</DependentUpon>
     </None>
-    <None Include="CustomerDataSet.xsd">
+    <None Include="DSSystem.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>CustomerDataSet.Designer.vb</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>DSSystem.Designer.vb</LastGenOutput>
     </None>
-    <None Include="CustomerDataSet.xss">
-      <DependentUpon>CustomerDataSet.xsd</DependentUpon>
+    <None Include="DSSystem.xss">
+      <DependentUpon>DSSystem.xsd</DependentUpon>
     </None>
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
@@ -267,11 +351,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <Content Include="vat.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Resources\resized ui.png" />
     <None Include="Resources\resized ui image.png" />
     <None Include="Resources\UI logo resize.png" />
     <None Include="Resources\Universal Inventories Logo.PNG" />
-    <None Include="Resources\OBlock Icon.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

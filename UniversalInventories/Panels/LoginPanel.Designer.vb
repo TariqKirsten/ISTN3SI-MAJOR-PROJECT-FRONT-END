@@ -28,6 +28,10 @@ Partial Class LoginPanel
         Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
         Me.usernameLabel = New MetroFramework.Controls.MetroLabel()
         Me.loginButton = New MetroFramework.Controls.MetroButton()
+        Me.DsSystem = New UniversalInventories.DSSystem()
+        Me.EmployeeTableAdapter = New UniversalInventories.DSSystemTableAdapters.EMPLOYEETableAdapter()
+        Me.MetroToolTip1 = New MetroFramework.Components.MetroToolTip()
+        CType(Me.DsSystem, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'usernameTextbox
@@ -57,6 +61,7 @@ Partial Class LoginPanel
         Me.usernameTextbox.ShortcutsEnabled = True
         Me.usernameTextbox.Size = New System.Drawing.Size(210, 23)
         Me.usernameTextbox.TabIndex = 0
+        Me.MetroToolTip1.SetToolTip(Me.usernameTextbox, "Enter Username")
         Me.usernameTextbox.UseSelectable = True
         Me.usernameTextbox.WaterMarkColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.usernameTextbox.WaterMarkFont = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel)
@@ -90,7 +95,7 @@ Partial Class LoginPanel
         Me.passwordTextbox.Location = New System.Drawing.Point(131, 169)
         Me.passwordTextbox.MaxLength = 32767
         Me.passwordTextbox.Name = "passwordTextbox"
-        Me.passwordTextbox.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.passwordTextbox.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
         Me.passwordTextbox.ScrollBars = System.Windows.Forms.ScrollBars.None
         Me.passwordTextbox.SelectedText = ""
         Me.passwordTextbox.SelectionLength = 0
@@ -98,7 +103,9 @@ Partial Class LoginPanel
         Me.passwordTextbox.ShortcutsEnabled = True
         Me.passwordTextbox.Size = New System.Drawing.Size(210, 23)
         Me.passwordTextbox.TabIndex = 3
+        Me.MetroToolTip1.SetToolTip(Me.passwordTextbox, "Enter Password")
         Me.passwordTextbox.UseSelectable = True
+        Me.passwordTextbox.UseSystemPasswordChar = True
         Me.passwordTextbox.WaterMarkColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.passwordTextbox.WaterMarkFont = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel)
         '
@@ -115,12 +122,27 @@ Partial Class LoginPanel
         'loginButton
         '
         Me.loginButton.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.loginButton.Location = New System.Drawing.Point(185, 234)
+        Me.loginButton.Location = New System.Drawing.Point(189, 234)
         Me.loginButton.Name = "loginButton"
-        Me.loginButton.Size = New System.Drawing.Size(87, 23)
+        Me.loginButton.Size = New System.Drawing.Size(87, 30)
         Me.loginButton.TabIndex = 4
         Me.loginButton.Text = "Login"
         Me.loginButton.UseSelectable = True
+        '
+        'DsSystem
+        '
+        Me.DsSystem.DataSetName = "DSSystem"
+        Me.DsSystem.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'EmployeeTableAdapter
+        '
+        Me.EmployeeTableAdapter.ClearBeforeFill = True
+        '
+        'MetroToolTip1
+        '
+        Me.MetroToolTip1.Style = MetroFramework.MetroColorStyle.Blue
+        Me.MetroToolTip1.StyleManager = Nothing
+        Me.MetroToolTip1.Theme = MetroFramework.MetroThemeStyle.[Default]
         '
         'LoginPanel
         '
@@ -134,6 +156,7 @@ Partial Class LoginPanel
         Me.Controls.Add(Me.usernameTextbox)
         Me.Name = "LoginPanel"
         Me.Size = New System.Drawing.Size(467, 388)
+        CType(Me.DsSystem, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -145,4 +168,7 @@ Partial Class LoginPanel
     Friend WithEvents BackgroundWorker1 As System.ComponentModel.BackgroundWorker
     Friend WithEvents usernameLabel As MetroFramework.Controls.MetroLabel
     Friend WithEvents loginButton As MetroFramework.Controls.MetroButton
+    Friend WithEvents DsSystem As DSSystem
+    Friend WithEvents EmployeeTableAdapter As DSSystemTableAdapters.EMPLOYEETableAdapter
+    Friend WithEvents MetroToolTip1 As MetroFramework.Components.MetroToolTip
 End Class
