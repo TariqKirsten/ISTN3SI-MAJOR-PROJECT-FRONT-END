@@ -1,0 +1,622 @@
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Form1.resources
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.cache
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CoreCompileInputs.cache
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CopyComplete
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojAssemblyReference.cache
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ExitAlertForm.resources
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\Tariq\Documents\istn\UniversalInventories\UniversalInventories\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ExitAlertForm.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.cache
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CoreCompileInputs.cache
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CopyComplete
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojAssemblyReference.cache
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\tariq\Documents\Visual Studio 2017\Projects\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ExitAlertForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CoreCompileInputs.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CopyComplete
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN212\ISTN212 Group Project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojAssemblyReference.cache
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ExitAlertForm.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.cache
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CoreCompileInputs.cache
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CopyComplete
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\jashmine\Documents\University\Istn212\project\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojAssemblyReference.cache
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ExitAlertForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.cache
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CoreCompileInputs.cache
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CopyComplete
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Desktop\UniversalInventoriesUpdated\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojAssemblyReference.cache
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ExitAlertForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.cache
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CoreCompileInputs.cache
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.CopyComplete
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Desktop\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+D:\Backup\University\Second year\Second semester\ISTN212\ISTN212 Group Project\UniversalInventoriesorg\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\jsancksncj\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.InsertRecordForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DataPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.DashboardAdmin.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productInsertPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productUpdatePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierInsertPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierUpdatePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.EmployeeInsertPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeeUpdatePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.UpdateRecordForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\cvbnm\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby update\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\guij\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\guij\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\guij\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\guij\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\Project\Bobby Update new\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\prana\Documents\University\Istn3as\Major Project\m2\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.reportsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.reportsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3AS\FINAL\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.reportsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\vat.txt
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\vat.txt
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\stdole.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.reportsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierReportForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\FlashControlV71.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\System.Net.Http.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\System.Net.Http.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\Milestone 3\Crystal\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\vat.txt
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\FlashControlV71.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\System.Net.Http.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\stdole.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\System.Net.Http.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.reportsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierReportForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\vat.txt
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.pdb
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\FlashControlV71.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\System.Net.Http.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\stdole.dll
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\bin\Debug\System.Net.Http.xml
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbprojResolveAssemblyReference.cache
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.AboutPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.MainForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.customerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.employeesPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.graphPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertCustomerPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertEmployeePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertProductPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.insertSupplier.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.LoginPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.Resources.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.lowStockPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.productsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.ReceiptPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.reportsPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.saleView.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.salePanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.supplierReportForm.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.taskManagementPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewOrdersPanel.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.viewReportsStatistics.resources
+C:\Users\Akaash Reedoy\Dropbox\Uni\ISTN3SI\M4\FES COPY\Front End System\UniversalInventories\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.vbproj.GenerateResource.Cache
+C:\Users\tariq\Downloads\UniversalInventories\UniversalInventories\bin\Debug\UniversalInventories.exe.config
+C:\Users\tariq\Downloads\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.exe
+C:\Users\tariq\Downloads\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.xml
+C:\Users\tariq\Downloads\UniversalInventories\UniversalInventories\obj\Debug\UniversalInventories.pdb

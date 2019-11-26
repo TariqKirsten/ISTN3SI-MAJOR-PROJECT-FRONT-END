@@ -1,0 +1,491 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UniversalInventories
+</name>
+</assembly>
+<members>
+<member name="T:UniversalInventories.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UniversalInventories.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UniversalInventories.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:UniversalInventories.My.Resources.Resources.resized_ui">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalInventories.My.Resources.Resources.resized_ui_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalInventories.My.Resources.Resources.UI_logo_resize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UniversalInventories.My.Resources.Resources.Universal_Inventories_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.CUSTOMERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.EMPLOYEEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCT_SUPPLIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALE_ITEMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SUPPLIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.INVOICEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_PRODUCT_SUPPLIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_SALE_PRODUCTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_EMPLOYEE_SALEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSTOTALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSQSOLDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.CATEGORYVSTOTALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSACCPROFITDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSNUMSALESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTVSTOTALSALESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTVSQSOLDRATEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTCATEGORYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.VATDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.CUSTOMERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.EMPLOYEERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCT_SUPPLIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALE_ITEMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SUPPLIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.INVOICERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_PRODUCT_SUPPLIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_SALE_PRODUCTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_EMPLOYEE_SALERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSTOTALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSQSOLDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.CATEGORYVSTOTALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSACCPROFITRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSNUMSALESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTVSTOTALSALESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTVSQSOLDRATERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTCATEGORYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.VATRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.CUSTOMERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.EMPLOYEERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCT_SUPPLIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALE_ITEMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SUPPLIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.INVOICERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_PRODUCT_SUPPLIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_SALE_PRODUCTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.JOINT_EMPLOYEE_SALERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSTOTALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSQSOLDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.CATEGORYVSTOTALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSACCPROFITRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.SALEDATEVSNUMSALESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTVSTOTALSALESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTVSQSOLDRATERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.PRODUCTCATEGORYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystem.VATRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.CUSTOMERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.EMPLOYEETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.PRODUCTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.PRODUCT_SUPPLIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SALETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SALE_ITEMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SUPPLIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.INVOICETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.JOINT_PRODUCT_SUPPLIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.JOINT_SALE_PRODUCTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.JOINT_EMPLOYEE_SALETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SALEDATEVSTOTALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SALEDATEVSQSOLDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.CATEGORYVSTOTALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SALEDATEVSACCPROFITTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.SALEDATEVSNUMSALESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.PRODUCTVSTOTALSALESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.PRODUCTVSQSOLDRATETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.PRODUCTCATEGORYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.VATTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.UpdateUpdatedRows(UniversalInventories.DSSystem,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.UpdateInsertedRows(UniversalInventories.DSSystem,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.UpdateDeletedRows(UniversalInventories.DSSystem,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.UpdateAll(UniversalInventories.DSSystem)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:UniversalInventories.DSSystemTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
